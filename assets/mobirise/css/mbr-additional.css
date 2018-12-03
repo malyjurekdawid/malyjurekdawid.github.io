@@ -1767,6 +1767,23 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rbbxGb7AUY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/flag-of-the-national-aeronautics-and-space-administration-2000x1200.png");
+}
+.cid-rbbxcnJjaa {
+  background: #ffffff;
+}
+.cid-rbbxcnJjaa .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rbbxcnJjaa .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
